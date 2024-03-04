@@ -1,0 +1,16 @@
+COMPARISON OPERATORS  
+   > 
+   >=
+   <
+   <=
+   ==
+   !=  not equal to
+
+   *different from js; in js === in python it is 'is'
+
+
+   LOGICAL OPERATORS
+     and - returns both satements wehich are true.
+     or - returns one of the statement which is true.
+     not- reverses.
+
